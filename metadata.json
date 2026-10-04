@@ -1,0 +1,6 @@
+{
+  "name": "MSNInvoice - PDF Invoice Generator & Editor",
+  "description": "Create, customize, and export professional invoices with live in-place editing, bank details, multi-currency support, and crisp PDF generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
